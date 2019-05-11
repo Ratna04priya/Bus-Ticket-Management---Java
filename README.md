@@ -1,2 +1,3 @@
 # Bus-Ticket-Management---Java
-Bus Ticket Mangement System in Jva
+Output-
+<p align="center"> <img src="output.gif"/> </p>
