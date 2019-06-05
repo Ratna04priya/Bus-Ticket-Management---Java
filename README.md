@@ -4,7 +4,7 @@
  *It also supports back-end using database*
  ## Features
  > 1. Back End support
- > 2. Admin and User Dashboard
+ > 2. Admin and User Dashboard with Login Systems
  > 3. Booking Tickets
  > 4. Cancel Tickets
  > 5. Reservation System
