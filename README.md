@@ -3,16 +3,16 @@
  The bus ticket booking system is a java project that maintains the official records of tours and travels. The whole system is made in Netbeans IDE. 
  *It also supports back-end using database*
  ## Features
- > Back End support
- > Admin and User Dashboard
- > Booking Tickets
- > Cancel Tickets
- > Reservation System
- > Management of Employees
- > Display of user details
- > Display of admin Details
- > Displays the information of Bus fare, seats Available , Buses Available
- > Choosing System for destination and dates
+ > 1. Back End support
+ > 2. Admin and User Dashboard
+ > 3. Booking Tickets
+ > 4. Cancel Tickets
+ > 5. Reservation System
+ > 6. Management of Employees
+ > 7. Display of user details
+ > 8. Display of admin Details
+ > 9. Displays the information of Bus fare, seats Available , Buses Available
+ > 10.Choosing System for destination and dates
  
  
 
