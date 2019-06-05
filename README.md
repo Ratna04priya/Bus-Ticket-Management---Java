@@ -36,9 +36,27 @@
    - a MySQL  instance up and runnning on localhost
    - a MySql user having root : root password: 
    - a database named busm
-
-
-
+  
 
 ## Output-
 <p align="center"> <img src="output.gif"/> </p>
+
+
+
+## Fix for 
+1. Need to give the datarange for specifically for seeing the avilable tickets.<br>
+2. Admin has full access to user Deatils.<br>
+3. It only provides Bus Reservation
+
+
+## Add-ons in Future
+1. Hosting online. <br>
+2. Sending Message to users after reservation and cancellation of tickets. <br>
+3. Exceeding the Range of Database.
+
+
+
+
+
+
+
