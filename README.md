@@ -1,5 +1,5 @@
 # Bus-Ticket-Management---Java
-**A Gui Based Application that can reserve for a long distance train or bus route.**
+**A Gui Based Application that can reserve for a long distance train or bus route.**<br>
  The bus ticket booking system is a java project that maintains the official records of tours and travels. The whole system is made in Netbeans IDE. 
  *It also supports back-end using database*
  ## Features
