@@ -17,19 +17,25 @@
  
  ## Running on your machine
  ### Netbeans IDE
- *Installing Netbeans IDE and running the main project i.e., the BusManagement.java .*
+ *Installing Netbeans IDE and running the main project i.e., the BusManagement.java .*<br>
   **Terminal**
   Will work when adding JFrame to each page. And then running the commands :
   
-  '''
+  ```
    cd src
    cd bus
    cd management
    javac BusManagement.java
    java BusManagement
   
-  '''
-
+  ```
+  ### Database
+  *Using **phpmyadmin** we can dispay and manage the database to the admin or the account handler*<br>
+  
+  The local "bootRun" task has the following prerequisites:
+   - a MySQL  instance up and runnning on localhost
+   - a MySql user having root : root password: 
+   - a database named busm
 
 
 
