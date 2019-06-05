@@ -15,10 +15,24 @@
  > 10. Choosing System for destination and dates
  
  
+ ## Running on your machine
+ ### Netbeans IDE
+ *Installing Netbeans IDE and running the main project i.e., the BusManagement.java .*
+  **Terminal**
+  Will work when adding JFrame to each page. And then running the commands :
+  
+  '''
+   cd src
+   cd bus
+   cd management
+   javac BusManagement.java
+   java BusManagement
+  
+  '''
 
 
 
 
 
-Output-
+## Output-
 <p align="center"> <img src="output.gif"/> </p>
