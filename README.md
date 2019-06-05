@@ -18,7 +18,7 @@
  ## Running on your machine
  ### Netbeans IDE
  *Installing Netbeans IDE and running the main project i.e., the BusManagement.java .*<br>
-  **Terminal**
+  **Terminal**<br>
   Will work when adding JFrame to each page. And then running the commands :
   
   ```
