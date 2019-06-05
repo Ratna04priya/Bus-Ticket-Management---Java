@@ -12,7 +12,7 @@
  > 7. Display of user details
  > 8. Display of admin Details
  > 9. Displays the information of Bus fare, seats Available , Buses Available
- > 10.Choosing System for destination and dates
+ > 10. Choosing System for destination and dates
  
  
 
