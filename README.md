@@ -53,6 +53,7 @@
 1. Hosting online. <br>
 2. Sending Message to users after reservation and cancellation of tickets. <br>
 3. Exceeding the Range of Database.
+4. Maintaining a permanent databases each for a specific one, unlike the temporary database used in this project.
 
 
 
